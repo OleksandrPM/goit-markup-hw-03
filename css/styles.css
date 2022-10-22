@@ -34,7 +34,7 @@
 
 /* Lists */
 .list {
-  list-style: none;
+list-style: none;
 }
 
 /* Links */
@@ -126,6 +126,11 @@
   background-color: var(--brand-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+}
+
+.hero .button:hover,
+.hero .button:focus{
+  background-color: #188CE8;
 }
 
 /* Priorities section */
