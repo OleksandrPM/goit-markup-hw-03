@@ -353,6 +353,7 @@ img {
 }
 
 .post-address {
+  display: block;
   margin-bottom: 9px;
 
   line-height: 1.71;
